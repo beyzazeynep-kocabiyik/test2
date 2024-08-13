@@ -1,0 +1,938 @@
+{
+	"Adana": {
+	  "name": "Adana",
+	  "attractions": [
+		"Taşköprü",
+		"Adana Merkez Park",
+		"Varda Köprüsü",
+		"Sabancı Merkez Camii",
+		"Misis Mozaik Müzesi"
+	  ],
+	  "foods": [
+		"Adana Kebabı",
+		"Şalgam",
+		"Bici Bici",
+		"Ciğer Kebabı",
+		"Yüksük Çorbası"
+	  ]
+	},
+	"Adıyaman": {
+	  "name": "Adıyaman",
+	  "attractions": [
+		"Nemrut Dağı",
+		"Cendere Köprüsü",
+		"Pirin Mağarası",
+		"Arsemia Ören Yeri",
+		"Karakuş Tümülüsü"
+	  ],
+	  "foods": [
+		"Çiğ Köfte",
+		"Besni Üzümü",
+		"Adıyaman Köftesi",
+		"İçli Köfte",
+		"Boranı"
+	  ]
+	},
+	"Afyonkarahisar": {
+	  "name": "Afyonkarahisar",
+	  "attractions": [
+		"Afyon Kalesi",
+		"Frig Vadisi",
+		"Ayazini Kilisesi",
+		"İscehisar Peri Bacaları",
+		"Afyon Ulu Camii"
+	  ],
+	  "foods": [
+		"Afyon Sucuğu",
+		"Kaymak",
+		"Afyon Lokumu",
+		"Bükme",
+		"Haşhaşlı Çörek"
+	  ]
+	},
+	"Ağrı": {
+	  "name": "Ağrı",
+	  "attractions": [
+		"İshak Paşa Sarayı",
+		"Doğubayazıt Kalesi",
+		"Meteor Çukuru",
+		"Ağrı Dağı",
+		"Balık Gölü"
+	  ],
+	  "foods": [
+		"Abdigör Köftesi",
+		"Ağrı Balı",
+		"Ağrı Ketesi",
+		"Halise",
+		"Selekli"
+	  ]
+	},
+	"Amasya": {
+	  "name": "Amasya",
+	  "attractions": [
+		"Amasya Kalesi",
+		"Kral Kaya Mezarları",
+		"Yalıboyu Evleri",
+		"Ferhat Su Kanalı",
+		"Hazeranlar Konağı"
+	  ],
+	  "foods": [
+		"Amasya Çöreği",
+		"Keşkek",
+		"Baklalı Dolma",
+		"Patlıcan Pehli",
+		"Toyga Çorbası"
+	  ]
+	},
+	"Ankara": {
+	  "name": "Ankara",
+	  "attractions": [
+		"Anıtkabir",
+		"Kocatepe Camii",
+		"Atatürk Orman Çiftliği",
+		"Anadolu Medeniyetleri Müzesi",
+		"Gençlik Parkı"
+	  ],
+	  "foods": [
+		"Döner",
+		"Beypazarı Güveci",
+		"Ankara Simidi",
+		"Tamtak Tiridi",
+		"Çubuk Turşusu"
+	  ]
+	},
+	"Antalya": {
+	  "name": "Antalya",
+	  "attractions": [
+		"Düden Şelalesi",
+		"Kaleiçi",
+		"Konyaaltı Plajı",
+		"Aspendos Tiyatrosu",
+		"Termessos Antik Kenti"
+	  ],
+	  "foods": [
+		"Piyaz",
+		"Serpme Börek",
+		"Antalya Kabak Tatlısı",
+		"Hibeş",
+		"Kulak Çorbası"
+	  ]
+	},
+	"Artvin": {
+	  "name": "Artvin",
+	  "attractions": [
+		"Karagöl",
+		"Macahel",
+		"Artvin Kalesi",
+		"Çoruh Nehri",
+		"Hatila Vadisi"
+	  ],
+	  "foods": [
+		"Kuymak",
+		"Laz Böreği",
+		"Hamsili Ekmek",
+		"Puçuko",
+		"Zeytinyağlı Fasulye"
+	  ]
+	},
+	"Aydın": {
+	  "name": "Aydın",
+	  "attractions": [
+		"Aphrodisias",
+		"Dilek Yarımadası",
+		"Tralles Antik Kenti",
+		"Milet Müzesi",
+		"Didyma Antik Kenti"
+	  ],
+	  "foods": [
+		"Çöp Şiş",
+		"Yuvarlama",
+		"Keşkek",
+		"Aydın Köftesi",
+		"Paşa Böreği"
+	  ]
+	},
+	"Balıkesir": {
+	  "name": "Balıkesir",
+	  "attractions": [
+		"Cunda Adası",
+		"Kaz Dağları",
+		"Manyas Kuş Cenneti",
+		"Şeytan Sofrası",
+		"Ayvalık Plajları"
+	  ],
+	  "foods": [
+		"Sarımsaklı Kebabı",
+		"Höşmerim",
+		"Balıkesir Kaymaklısı",
+		"Tirit",
+		"Marmara Peyniri"
+	  ]
+	},
+	"Bilecik": {
+	  "name": "Bilecik",
+	  "attractions": [
+		"Şeyh Edebali Türbesi",
+		"Osmanlı Hamamı",
+		"Bilecik Kalesi",
+		"Kınık Şelalesi",
+		"Söğüt Müzesi"
+	  ],
+	  "foods": [
+		"Bilecik Kebabı",
+		"Mihalıççık Fasulyesi",
+		"Kızılcık Şerbeti",
+		"Nohutlu Pilav",
+		"Hamur Tatlısı"
+	  ]
+	},
+	"Bingöl": {
+	  "name": "Bingöl",
+	  "attractions": [
+		"Yüzen Adalar",
+		"Kös Kaplıcaları",
+		"Bingöl Kalesi",
+		"Sentarius Dağı",
+		"Kiğı Kaplıcaları"
+	  ],
+	  "foods": [
+		"Löl",
+		"Sorina Pel",
+		"Mastuva",
+		"Herise",
+		"Gulik"
+	  ]
+	},
+	"Bitlis": {
+	  "name": "Bitlis",
+	  "attractions": [
+		"Nemrut Krater Gölü",
+		"Bitlis Kalesi",
+		"Ahlat Selçuklu Mezarlığı",
+		"Tatvan",
+		"Süphan Dağı"
+	  ],
+	  "foods": [
+		"Ciğer Köftesi",
+		"Bitlis Böreği",
+		"İskenderu",
+		"Şemşamer",
+		"Kavut"
+	  ]
+	},
+	"Bolu": {
+	  "name": "Bolu",
+	  "attractions": [
+		"Abant Gölü",
+		"Gölcük Tabiat Parkı",
+		"Yedigöller Milli Parkı",
+		"Kartalkaya Kayak Merkezi",
+		"Bolu Müzesi"
+	  ],
+	  "foods": [
+		"Mengen Pilavı",
+		"Kıbrıs Tatlısı",
+		"Bolu Kebabı",
+		"Paşa Pilavı",
+		"Ovmaç Çorbası"
+	  ]
+	},
+	"Burdur": {
+	  "name": "Burdur",
+	  "attractions": [
+		"Salda Gölü",
+		"Sagalassos Antik Kenti",
+		"Burdur Gölü",
+		"İnsuyu Mağarası",
+		"Hacılar Höyüğü"
+	  ],
+	  "foods": [
+		"Burdur Şiş",
+		"Ceviz Ezmesi",
+		"Burdur Salatası",
+		"Gazel Böreği",
+		"Burdur Çorbası"
+	  ]
+	},
+	"Bursa": {
+	  "name": "Bursa",
+	  "attractions": [
+		"Uludağ",
+		"Cumalıkızık",
+		"Ulu Camii",
+		"Bursa Kapalı Çarşı",
+		"Muradiye Külliyesi"
+	  ],
+	  "foods": [
+		"İskender Kebabı",
+		"Kestane Şekeri",
+		"Cantık",
+		"Kemalpaşa Tatlısı",
+		"Pideli Köfte"
+	  ]
+	},
+	"Çanakkale": {
+	  "name": "Çanakkale",
+	  "attractions": [
+		"Troya Antik Kenti",
+		"Assos",
+		"Gelibolu Yarımadası",
+		"Kaz Dağları",
+		"Çanakkale Saat Kulesi"
+	  ],
+	  "foods": [
+		"Ezine Peyniri",
+		"Sardalya",
+		"Biga Kıymalı Pidesi",
+		"Peynir Helvası",
+		"İskorpit Çorbası"
+	  ]
+	},
+	"Çankırı": {
+	  "name": "Çankırı",
+	  "attractions": [
+		"Tuz Mağarası",
+		"Ilgaz Dağı",
+		"Çankırı Kalesi",
+		"Atatürk Anıtı",
+		"Gizli Cennet"
+	  ],
+	  "foods": [
+		"Çankırı Kebabı",
+		"Çörek",
+		"Paça Çorbası",
+		"Çankırı Böreği",
+		"Yoğurtlu Çılbır"
+	  ]
+	},
+	"Çorum": {
+	  "name": "Çorum",
+	  "attractions": [
+		"Hattuşaş",
+		"Boğazkale",
+		"Çorum Müzesi",
+		"Alacahöyük",
+		"Osmanlı Evi"
+	  ],
+	  "foods": [
+		"Çorum Leblebisi",
+		"Çorum Kebabı",
+		"Pirinci Pilavı",
+		"Leblebi Çorbası",
+		"Çörek"
+	  ]
+	},
+	"Denizli": {
+	  "name": "Denizli",
+	  "attractions": [
+		"Pamukkale Travertenleri",
+		"Hierapolis Antik Kenti",
+		"Laodicea Antik Kenti",
+		"Denizli Teleferik",
+		"Kaklık Mağarası"
+	  ],
+	  "foods": [
+		"Denizli Kebabı",
+		"Çökelek",
+		"Yörük Pilavı",
+		"Denizli Tandırı",
+		"Pekmezli Tatlı"
+	  ]
+	},
+	"Diyarbakır": {
+	  "name": "Diyarbakır",
+	  "attractions": [
+		"Diyarbakır Surları",
+		"Hevsel Bahçeleri",
+		"Cahit Sitki Tarancı Müzesi",
+		"Ulu Camii",
+		"Diyarbakır Kalesi"
+	  ],
+	  "foods": [
+		"Diyarbakır Kebabı",
+		"Ciğer Kebabı",
+		"Kaburga Dolması",
+		"Börek",
+		"Kısır"
+	  ]
+	},
+	"Düzce": {
+	  "name": "Düzce",
+	  "attractions": [
+		"Yedigöller Milli Parkı",
+		"Gölcük Tabiat Parkı",
+		"Konuralp Antik Kenti",
+		"Düzce Çevresi Yaylaları",
+		"Akçakoca Plajları"
+	  ],
+	  "foods": [
+		"Düzce Kebabı",
+		"Cızlak",
+		"Kuzu Tandırlı Pilav",
+		"Sütlaç",
+		"Fırın Tavuk"
+	  ]
+	},
+	"Edirne": {
+	  "name": "Edirne",
+	  "attractions": [
+		"Selimiye Camii",
+		"Edirne Sarayı",
+		"Üç Şerefeli Camii",
+		"Karaağaç",
+		"Edirne Müzesi"
+	  ],
+	  "foods": [
+		"Edirne Tava Ciğeri",
+		"Börek",
+		"Kısır",
+		"Edirne Kebabı",
+		"İskender"
+	  ]
+	},
+	"Elazığ": {
+	  "name": "Elazığ",
+	  "attractions": [
+		"Harput Kalesi",
+		"Arıcak",
+		"Elazığ Müzesi",
+		"Sula Gölü",
+		"Buzluk Mağarası"
+	  ],
+	  "foods": [
+		"Elazığ Köfte",
+		"Harput Kebabı",
+		"İskenderun Kebabı",
+		"Mumbar",
+		"Çökelek"
+	  ]
+	},
+	"Erzincan": {
+	  "name": "Erzincan",
+	  "attractions": [
+		"Erzincan Kalesi",
+		"Girlevik Şelalesi",
+		"Erzincan Tulum Peynir Müzesi",
+		"Kemaliye Taş Yolu",
+		"Çadır Kalesi"
+	  ],
+	  "foods": [
+		"Erzincan Tulum Peynir",
+		"Erzincan Kebabı",
+		"Kuzu Tandırı",
+		"Yayla Çorbası",
+		"Sübye"
+	  ]
+	},
+	"Erzurum": {
+	  "name": "Erzurum",
+	  "attractions": [
+		"Erzurum Kalesi",
+		"Çifte Minareli Medrese",
+		"Palandöken Kayak Merkezi",
+		"Yakutiye Medrese",
+		"Nene Hatun Anıtı"
+	  ],
+	  "foods": [
+		"Cağ Kebabı",
+		"Erzurum Şekerpınarı",
+		"Özbek Pilavı",
+		"Kadayıf Dolması",
+		"Erzurum Un Çorbası"
+	  ]
+	},
+	"Eskişehir": {
+	  "name": "Eskişehir",
+	  "attractions": [
+		"Odunpazarı Evleri",
+		"Porsuk Çayı",
+		"Eskişehir Müzesi",
+		"Sazova Parkı",
+		"Odunpazarı Modern Müze"
+	  ],
+	  "foods": [
+		"Eskişehir Kebabı",
+		"Meşhur Çibörek",
+		"Tirit",
+		"Mangal Köfte",
+		"Pide"
+	  ]
+	},
+	"Gaziantep": {
+	  "name": "Gaziantep",
+	  "attractions": [
+		"Zeugma Mozaik Müzesi",
+		"Gaziantep Kalesi",
+		"Bakırcılar Çarşısı",
+		"Kamil Ocak Stadyumu",
+		"Yesemek Taş Ocağı"
+	  ],
+	  "foods": [
+		"Gaziantep Kebabı",
+		"Baklava",
+		"Ali Nazik",
+		"Beyran",
+		"Kısır"
+	  ]
+	},
+	"Giresun": {
+	  "name": "Giresun",
+	  "attractions": [
+		"Giresun Kalesi",
+		"Giresun Adası",
+		"Giresun Müzesi",
+		"Tirebolu",
+		"Espiye"
+	  ],
+	  "foods": [
+		"Giresun Kebabı",
+		"Fındıklı Pilav",
+		"Kuzu Tandır",
+		"Kuru Fasulye",
+		"Tirit"
+	  ]
+	},
+	"Gümüşhane": {
+	  "name": "Gümüşhane",
+	  "attractions": [
+		"Kale",
+		"Çakırgöl",
+		"Zigana Dağı",
+		"Karaca Mağarası",
+		"Gümüşhane Müzesi"
+	  ],
+	  "foods": [
+		"Gümüşhane Kebabı",
+		"Sümela Böreği",
+		"Kuzu Tandır",
+		"Fındıklı Pilav",
+		"Mıhlama"
+	  ]
+	},
+	"Hakkari": {
+	  "name": "Hakkari",
+	  "attractions": [
+		"Zirve Dağı",
+		"Cilo Dağı",
+		"Yüksekova",
+		"Hakkari Kalesi",
+		"Reşko Dağı"
+	  ],
+	  "foods": [
+		"Hakkari Kebabı",
+		"Şehriyar Pilavı",
+		"Hakkari Çöreği",
+		"Tirit",
+		"Kuzu tandır"
+	  ]
+	},
+	"Hatay": {
+	  "name": "Hatay",
+	  "attractions": [
+		"Saint Pierre Kilisesi",
+		"Hatay Arkeoloji Müzesi",
+		"Harbiye Şelaleleri",
+		"Antakya Mozaik Müzesi",
+		"Samandağ"
+	  ],
+	  "foods": [
+		"Hatay Kebabı",
+		"Kısır",
+		"Humus",
+		"Mücver",
+		"Biber Dolması"
+	  ]
+	},
+	"Iğdır": {
+	  "name": "Iğdır",
+	  "attractions": [
+		"Iğdır Kalesi",
+		"Aras Nehri",
+		"Doğubeyazıt",
+		"Iğdır Fırtına Yolu",
+		"Iğdır Meydanı"
+	  ],
+	  "foods": [
+		"Iğdır Kebabı",
+		"Aras Pilavı",
+		"Sütlaç",
+		"Iğdır Çöreği",
+		"Gül Böreği"
+	  ]
+	},
+	"Isparta": {
+	  "name": "Isparta",
+	  "attractions": [
+		"Egirdir Gölü",
+		"Isparta Müzesi",
+		"Kovada Gölü",
+		"Yalvaç",
+		"Kızıldağ"
+	  ],
+	  "foods": [
+		"Isparta Kebabı",
+		"Gül Lokumu",
+		"Yalvaç Böreği",
+		"Kuzu Tandır",
+		"Kuru Fasulye"
+	  ]
+	},
+	"İstanbul": {
+	  "name": "İstanbul",
+	  "attractions": [
+		"Ayasofya",
+		"Topkapı Sarayı",
+		"Kapalıçarşı",
+		"Beyoğlu",
+		"Dolmabahçe Sarayı"
+	  ],
+	  "foods": [
+		"İstanbul Köftesi",
+		"Saray Kebabı",
+		"Lahmacun",
+		"Midye Dolma",
+		"Balık Ekmek"
+	  ]
+	},
+	"İzmir": {
+	  "name": "İzmir",
+	  "attractions": [
+		"Efes Antik Kenti",
+		"Saat Kulesi",
+		"Kemeralti Çarşısı",
+		"Konak Meydanı",
+		"Alsancak"
+	  ],
+	  "foods": [
+		"İzmir Köfte",
+		"Boyoz",
+		"Kumru",
+		"Çörek",
+		"Sakızlı Muhallebi"
+	  ]
+	},
+	"Kahramanmaraş": {
+	  "name": "Kahramanmaraş",
+	  "attractions": [
+		"Kahramanmaraş Kalesi",
+		"Maraş Dondurması",
+		"Gördes Taş Yolu",
+		"Kahramanmaraş Arkeoloji Müzesi",
+		"Ekinözü Kaplıcaları"
+	  ],
+	  "foods": [
+		"Kahramanmaraş Dondurması",
+		"Kahramanmaraş Kebabı",
+		"Maraş Çöreği",
+		"Pide",
+		"Maraş Tava"
+	  ]
+	},
+	"Karabük": {
+	  "name": "Karabük",
+	  "attractions": [
+		"Safranbolu Evleri",
+		"Safranbolu Müzesi",
+		"Kastamonu Kalesi",
+		"Karabük Müzesi",
+		"Yenice Ormanları"
+	  ],
+	  "foods": [
+		"Karabük Kebabı",
+		"Safranbolu Lokumu",
+		"Mangal Köfte",
+		"Kısır",
+		"Mısır Ekmeği"
+	  ]
+	},
+	"Karaman": {
+	  "name": "Karaman",
+	  "attractions": [
+		"Karaman Kalesi",
+		"Ermenek Mağarası",
+		"Karaman Müzesi",
+		"Karaman Çayı",
+		"Sulu Koca Şehir Parkı"
+	  ],
+	  "foods": [
+		"Karaman Kebabı",
+		"Fırın Mantarı",
+		"Yörük Pilavı",
+		"Karaman Tandırı",
+		"Kuzu Tandır"
+	  ]
+	},
+	"Kars": {
+	  "name": "Kars",
+	  "attractions": [
+		"Ani Harabeleri",
+		"Kars Kalesi",
+		"Kars Müzesi",
+		"Fethiye Camii",
+		"Sarıkamış Kayak Merkezi"
+	  ],
+	  "foods": [
+		"Kars Gravyeri",
+		"Kars Kebabı",
+		"Sarıkamış Çorbası",
+		"Havuçlu Pilav",
+		"Kars Tandırı"
+	  ]
+	},
+	"Kastamonu": {
+	  "name": "Kastamonu",
+	  "attractions": [
+		"Kastamonu Kalesi",
+		"İsmail Bey Camii",
+		"Kastamonu Müzesi",
+		"Sarıhan",
+		"Kastamonu Evleri"
+	  ],
+	  "foods": [
+		"Kastamonu Kebabı",
+		"Sarımsaklı Mantı",
+		"Kastamonu Çöreği",
+		"Kuzu Tandır",
+		"Ekmek Kadayıfı"
+	  ]
+	},
+	"Ordu": {
+	  "name": "Ordu",
+	  "attractions": [
+		"Boztepe",
+		"Ordu Kalesi",
+		"Ünye",
+		"Perşembe Yaylası",
+		"Gölköy"
+	  ],
+	  "foods": [
+		"Ordu Kebabı",
+		"Hamsi Pilavı",
+		"Fındıklı Kurabiye",
+		"Mıhlama",
+		"Pide"
+	  ]
+	},
+	"Osmaniye": {
+	  "name": "Osmaniye",
+	  "attractions": [
+		"Osmaniye Kalesi",
+		"Cevdetiye Köyü",
+		"Harbiye Şelaleleri",
+		"Osmaniye Müzesi",
+		"Kozan Kalesi"
+	  ],
+	  "foods": [
+		"Osmaniye Kebabı",
+		"Yüksekova Çorbası",
+		"Osmaniye Çöreği",
+		"Kuzu Tandır",
+		"Saray Kebabı"
+	  ]
+	},
+	"Rize": {
+	  "name": "Rize",
+	  "attractions": [
+		"Ayder Yaylası",
+		"Rize Kalesi",
+		"Çamlıhemşin",
+		"Fırtına Vadisi",
+		"Zil Kale"
+	  ],
+	  "foods": [
+		"Rize Kebabı",
+		"Mıhlama",
+		"Rize Çayı",
+		"Rize Mantarı",
+		"Laz Böreği"
+	  ]
+	},
+	"Samsun": {
+	  "name": "Samsun",
+	  "attractions": [
+		"Atatürk Anıtı",
+		"Samsun Müzesi",
+		"Bandırma Vapuru",
+		"Amisos Tepesi",
+		"Gazi Müzesi"
+	  ],
+	  "foods": [
+		"Samsun Pide",
+		"Samsun Kebabı",
+		"Samsun Mangal Köfte",
+		"Kısır",
+		"Pide"
+	  ]
+	},
+	"Sinop": {
+	  "name": "Sinop",
+	  "attractions": [
+		"Sinop Kalesi",
+		"Akliman",
+		"Sinop Cezaevi",
+		"Sinop Müzesi",
+		"Hamsilos Koyu"
+	  ],
+	  "foods": [
+		"Sinop Kebabı",
+		"Hamsi Pilavı",
+		"Mangal Köfte",
+		"Kuzu Tandır",
+		"Pide"
+	  ]
+	},
+	"Sivas": {
+	  "name": "Sivas",
+	  "attractions": [
+		"Sivas Kalesi",
+		"Divriği Ulu Camii",
+		"Sivas Atatürk Caddesi",
+		"Gök Medrese",
+		"Çifte Minareli Medrese"
+	  ],
+	  "foods": [
+		"Sivas Kebabı",
+		"Sivas Köftesi",
+		"Sivas Mantısı",
+		"Mangal Köfte",
+		"Pide"
+	  ]
+	},
+	"Tekirdağ": {
+	  "name": "Tekirdağ",
+	  "attractions": [
+		"Tekirdağ Kalesi",
+		"Mürefte",
+		"Tekirdağ Müzesi",
+		"Çorlu Atatürk Evi",
+		"Şarköy"
+	  ],
+	  "foods": [
+		"Tekirdağ Köftesi",
+		"Tekirdağ Rakısı",
+		"Şarköy Zeytini",
+		"Tekirdağ Tandırı",
+		"Mangal Köfte"
+	  ]
+	},
+	"Tokat": {
+	  "name": "Tokat",
+	  "attractions": [
+		"Tokat Kalesi",
+		"Ballıca Mağarası",
+		"Tokat Müzesi",
+		"Çamlıbel Köyü",
+		"Gökmedrese"
+	  ],
+	  "foods": [
+		"Tokat Kebabı",
+		"Tokat Mantarı",
+		"Tokat Kuzu Tandırı",
+		"Zeytin Yahnisi",
+		"Mangal Köfte"
+	  ]
+	},
+	"Trabzon": {
+	  "name": "Trabzon",
+	  "attractions": [
+		"Uzungöl",
+		"Sümela Manastırı",
+		"Trabzon Kalesi",
+		"Ayasofya Müzesi",
+		"Boztepe"
+	  ],
+	  "foods": [
+		"Trabzon Kebabı",
+		"Trabzon Hurması",
+		"Hamsi Pilavı",
+		"Mıhlama",
+		"Kuymak"
+	  ]
+	},
+	"Tunceli": {
+	  "name": "Tunceli",
+	  "attractions": [
+		"Munzur Dağları",
+		"Tunceli Kalesi",
+		"Pülümür Çayı",
+		"Ovacık",
+		"Tunceli Müzesi"
+	  ],
+	  "foods": [
+		"Tunceli Kebabı",
+		"Munzur Dağları Çorbası",
+		"Kuzu Tandır",
+		"Fırın Tavuk",
+		"Pide"
+	  ]
+	},
+	"Şanlıurfa": {
+	  "name": "Şanlıurfa",
+	  "attractions": [
+		"Göbekli Tepe",
+		"Şanlıurfa Kalesi",
+		"Balıklıgöl",
+		"Haleplibahçe Mozaik Müzesi",
+		"Rızvaniye Camii"
+	  ],
+	  "foods": [
+		"Şanlıurfa Kebabı",
+		"İskender",
+		"Beyran",
+		"Çörek",
+		"Sahrap"
+	  ]
+	},
+	"Şırnak": {
+	  "name": "Şırnak",
+	  "attractions": [
+		"Cudi Dağı",
+		"Gabar Dağı",
+		"Şırnak Kalesi",
+		"İdil",
+		"Uludere"
+	  ],
+	  "foods": [
+		"Şırnak Kebabı",
+		"Cudi Dağı Çorbası",
+		"Tandır Kuzu",
+		"Bulgur Pilavı",
+		"Kuzu Tandır"
+	  ]
+	},
+	"Yozgat": {
+	  "name": "Yozgat",
+	  "attractions": [
+		"Yozgat Kalesi",
+		"Yozgat Müzesi",
+		"Çamlık Milli Parkı",
+		"Sorgun Kaplıcaları",
+		"Yozgat Çamlığı"
+	  ],
+	  "foods": [
+		"Yozgat Kebabı",
+		"Yozgat Çöreği",
+		"Börek",
+		"Sorgun Pilavı",
+		"Mangal Köfte"
+	  ]
+	},
+	"Zonguldak": {
+	  "name": "Zonguldak",
+	  "attractions": [
+		"Filyos Limanı",
+		"Göztepe",
+		"Zonguldak Müzesi",
+		"Ereğli",
+		"Devrek"
+	  ],
+	  "foods": [
+		"Zonguldak Kebabı",
+		"Mangal Köfte",
+		"Kısır",
+		"Kuzu Tandır",
+		"Zonguldak Çorbası"
+	  ]
+	}
+  }
+  
